@@ -1,4 +1,4 @@
-module github.com/bob-the-glitch/snow-vuln-tui
+module github.com/trevorcapps/snow-vuln-tui
 
 go 1.21
 

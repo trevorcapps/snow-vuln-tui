@@ -11,10 +11,10 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/auth"
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/form"
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/models"
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/snow"
+	"github.com/trevorcapps/snow-vuln-tui/internal/auth"
+	"github.com/trevorcapps/snow-vuln-tui/internal/form"
+	"github.com/trevorcapps/snow-vuln-tui/internal/models"
+	"github.com/trevorcapps/snow-vuln-tui/internal/snow"
 )
 
 // ── Styles ──────────────────────────────────────────────────────────────────

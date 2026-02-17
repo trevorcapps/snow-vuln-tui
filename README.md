@@ -19,7 +19,7 @@ No browser, no bloated GUI — just a clean, fast, keyboard-driven form that tal
 ### From source
 
 ```bash
-git clone https://github.com/bob-the-glitch/snow-vuln-tui.git
+git clone https://github.com/trevorcapps/snow-vuln-tui.git
 cd snow-vuln-tui
 go build -o snow-vuln-tui .
 ```
@@ -27,7 +27,7 @@ go build -o snow-vuln-tui .
 ### With `go install`
 
 ```bash
-go install github.com/bob-the-glitch/snow-vuln-tui@latest
+go install github.com/trevorcapps/snow-vuln-tui@latest
 ```
 
 > **Requires Go 1.21 or later.**

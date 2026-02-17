@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/auth"
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/models"
+	"github.com/trevorcapps/snow-vuln-tui/internal/auth"
+	"github.com/trevorcapps/snow-vuln-tui/internal/models"
 )
 
 const (

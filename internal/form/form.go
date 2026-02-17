@@ -8,7 +8,7 @@ import (
 	"github.com/charmbracelet/huh"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/bob-the-glitch/snow-vuln-tui/internal/models"
+	"github.com/trevorcapps/snow-vuln-tui/internal/models"
 )
 
 // Run displays the vulnerability ticket form and returns the populated ticket.
